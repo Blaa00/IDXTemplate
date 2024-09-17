@@ -2,7 +2,7 @@
 A collection of templates for easy setup of IDX in educational settings.
 
 ## Basic Template
-<a href="https://idx.google.com/import?url=https://github.com/Blaa00/IDXTemplate/src/BasicTemplate">
+<a href="https://idx.google.com/import?url=https://github.com/Blaa00/IDXTemplate/tree/main/src/BasicTemplate">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"

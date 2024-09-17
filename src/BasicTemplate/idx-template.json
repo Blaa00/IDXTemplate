@@ -1,4 +1,5 @@
 {
   "name": "Python basic",
-  "description": "A basic IDX template with Python support."
+  "description": "A basic IDX template with Python support.",
+  "params": []
 }
